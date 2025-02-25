@@ -2,7 +2,7 @@
 
 # Cardiovascular Disease Prediction
 
-![Project Banner](https://via.placeholder.com/1200x300)
+![Project Banner](./static/images/banner.png)
 
 A comprehensive web-based system for predicting cardiovascular disease risk using advanced machine learning techniques. This tool aims to assist healthcare professionals in early detection and risk assessment of cardiovascular diseases, potentially improving patient outcomes through timely intervention.
 
