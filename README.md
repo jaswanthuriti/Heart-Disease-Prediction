@@ -42,24 +42,38 @@ A comprehensive web-based system for predicting cardiovascular disease risk usin
 
 ## 🛠️ Tech Stack
 
-- **Python** (3.8+)
-  - NumPy - Numerical operations
-  - Pandas - Data manipulation
-  - Scikit-learn - Machine learning algorithms
-  - Matplotlib/Seaborn - Visualization
-  - LIME - Model explanation
+<div align="center">
 
-- **Web Application**
-  - Flask - Backend framework
-  - HTML/CSS - Frontend interface
-  - Bootstrap - Responsive design
-  - Chart.js - Interactive visualizations
+### Programming Languages:
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Technologies:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/CHART.JS-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+
+### Backend:
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### ML Libraries:
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database:
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ## 📥 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cardiovascular-disease-prediction.git
+   git clone https://github.com/jaswanthuriti/cardiovascular-disease-prediction.git
    cd cardiovascular-disease-prediction
    ```
 
@@ -147,14 +161,9 @@ cardiovascular-disease-prediction/
 - Add time-series analysis for patient monitoring
 
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
-Your Name - [jaswanthuriti@gmail.com](mailto:jaswanthuriti@gmail.com)
+Jaswanth Uriti - [jaswanthuriti@gmail.com](mailto:jaswanthuriti@gmail.com)
 
 
-⭐️ From [YourUsername](https://github.com/jaswanthuriti)
+⭐️ From [jaswanthuriti](https://github.com/jaswanthuriti)
