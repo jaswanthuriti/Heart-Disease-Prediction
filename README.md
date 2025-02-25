@@ -1,8 +1,5 @@
-# Heart-Disease-Prediction
-
 # Cardiovascular Disease Prediction
 
-![Project Banner](./static/images/banner.png)
 
 A comprehensive web-based system for predicting cardiovascular disease risk using advanced machine learning techniques. This tool aims to assist healthcare professionals in early detection and risk assessment of cardiovascular diseases, potentially improving patient outcomes through timely intervention.
 
@@ -38,7 +35,7 @@ A comprehensive web-based system for predicting cardiovascular disease risk usin
 
 ## 🎬 Demo
 
-![Demo GIF](https://via.placeholder.com/800x450)
+![Screenshot 2025-02-24 at 9 42 17 PM](https://github.com/user-attachments/assets/3c127fa4-2f22-44db-ae56-c6d296f245f5)
 
 ## 🛠️ Tech Stack
 
@@ -116,7 +113,7 @@ A comprehensive web-based system for predicting cardiovascular disease risk usin
 | Logistic Regression | 86% | 0.85 | 0.87 | 0.86 | 0.92 |
 | SVM | 88% | 0.87 | 0.89 | 0.88 | 0.93 |
 
-![Model Comparison](https://via.placeholder.com/800x400)
+
 
 ## 📁 Project Structure
 
