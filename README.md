@@ -6,18 +6,6 @@
 
 A comprehensive web-based system for predicting cardiovascular disease risk using advanced machine learning techniques. This tool aims to assist healthcare professionals in early detection and risk assessment of cardiovascular diseases, potentially improving patient outcomes through timely intervention.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Demo](#demo)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## ✨ Features
 
@@ -158,15 +146,7 @@ cardiovascular-disease-prediction/
 - Integrate with electronic health record systems
 - Add time-series analysis for patient monitoring
 
-## 👥 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -174,10 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [jaswanthuriti@gmail.com](mailto:jaswanthuriti@gmail.com)
 
-Project Link: [https://github.com/yourusername/cardiovascular-disease-prediction](https://github.com/yourusername/cardiovascular-disease-prediction)
 
----
-
-⭐️ From [YourUsername](https://github.com/yourusername)
+⭐️ From [YourUsername](https://github.com/jaswanthuriti)
